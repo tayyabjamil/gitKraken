@@ -5,7 +5,7 @@ export default class App extends Component {
   render() {
     return (
       <View>
-        <Text>Featue Tested</Text>
+        <Text>Featue 2 </Text>
         <Text>Master</Text>
        
       </View>
