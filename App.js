@@ -6,6 +6,7 @@ export default class App extends Component {
     return (
       <View>
         <Text>Featue Tested</Text>
+        <Text>Master</Text>
        
       </View>
     )
