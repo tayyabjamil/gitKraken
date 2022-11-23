@@ -12,6 +12,7 @@ export default class App extends Component {
         <Text>branch 5 changes</Text>
         <Text>branch 6 changes</Text>
         <Text>branch 6 1 changes</Text>
+        <Text>branch 6 2 changes</Text>
      
       </View>
     )
