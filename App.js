@@ -18,6 +18,7 @@ export default class App extends Component {
 
 
         <Text>new changes in branch2</Text>
+        <Text>new changes in branch3</Text>
      
       </View>
     )
