@@ -5,7 +5,7 @@ export default class App extends Component {
   render() {
     return (
       <View>
-        <Text>Branch 2 first changes</Text>
+        <Text>Branch 3 first changes</Text>
       </View>
     )
   }
