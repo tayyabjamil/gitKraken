@@ -5,7 +5,7 @@ export default class App extends Component {
   render() {
     return (
       <View>
-        <Text>Featue added</Text>
+        <Text>Featue Tested</Text>
        
       </View>
     )
